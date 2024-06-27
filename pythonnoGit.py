@@ -11,3 +11,4 @@ else:
 print(pares)
 print(impares)
 print('ddd')
+print(pares * impares)
